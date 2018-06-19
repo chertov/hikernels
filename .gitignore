@@ -1,0 +1,11 @@
+*
+!*/
+
+!/patches*/**/*.patch
+!/*.sh
+!/*.md
+
+!.gitignore
+
+/original_kernels
+/linux*
